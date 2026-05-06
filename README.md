@@ -31,5 +31,4 @@ The system calculates temperature and turns ON an LED if it exceeds 30°C.
 ## Author
 Sneha V
 
-
 ## A
