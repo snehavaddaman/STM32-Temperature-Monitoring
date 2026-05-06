@@ -27,8 +27,6 @@ The system calculates temperature and turns ON an LED if it exceeds 30°C.
 - UART output to display temperature on PC
 - LCD display integration
 - IoT-based monitoring
-  
+
 ## Author
 Sneha V
-
-## A
